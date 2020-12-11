@@ -6,15 +6,19 @@ Introduction
 
 FloPy includes support for [MODFLOW 6](docs/mf6.md), MODFLOW-2005, MODFLOW-NWT, MODFLOW-USG, and MODFLOW-2000. Other supported MODFLOW-based models include MODPATH (version 6 and 7), MT3DMS, MT3D-USGS, and SEAWAT.
 
-For general modeling issues, please consult a modeling forum, such as the [MODFLOW Users Group](https://groups.google.com/forum/#!forum/modflow).  Other MODFLOW resources are listed in the [MODFLOW Resources](https://github.com/modflowpy/flopy#modflow-resources) section.
 
 TO FIND CLAUDIA CORONA'S INDIVIDUAL GROUP PROJECT
 -----------------------------------------------
-Go to examples/Notebooks/CRCFloPy.ipynb
-The notebook has been pre-run and should be complete.
+
+## Go to examples/Notebooks/CRCFloPy.ipynb
+
+## The notebook has been pre-run and should be complete.
+
 ----------------------------------------------
 
+
 NOTE: THIS REPOSITORY DOES NOT HAVE THE FLOPY FOLDER. That must be installed locally on your machine. Here's how:
+
 
 To Install
 -----------------------------------------------
@@ -25,6 +29,7 @@ To install FloPy type:
     conda install -c conda-forge flopy
 or
     pip install flopy
+
 
 Documentation
 -----------------------------------------------
@@ -44,6 +49,7 @@ FloPy code documentation is available at [https://flopy.readthedocs.io](https://
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/modflowpy/flopy.git/develop)
 
+
 ##### ***Citation for FloPy:***
 
 [Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Starn, J. J. and Fienen, M. N., 2016, Scripting MODFLOW Model Development Using Python and FloPy: Groundwater, v. 54, p. 733–739, doi:10.1111/gwat.12413.](http://dx.doi.org/10.1111/gwat.12413)
@@ -51,6 +57,7 @@ FloPy code documentation is available at [https://flopy.readthedocs.io](https://
 ##### ***Software/Code citation for FloPy:***
 
 [Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Leaf, A. T., Paulinski, S. R., Larsen, J. D., Toews, M. W., Morway, E. D., Bellino, J. C., Starn, J. J., and Fienen, M. N., 2020, FloPy v3.3.3 &mdash; release candidate: U.S. Geological Survey Software Release, 27 October 2020, http://dx.doi.org/10.5066/F7BK19FH](http://dx.doi.org/10.5066/F7BK19FH)
+
 
 MODFLOW Resources
 -----------------------------------------------
