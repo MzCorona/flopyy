@@ -23,11 +23,14 @@ NOTE: THIS REPOSITORY DOES NOT HAVE THE FLOPY FOLDER. That must be installed loc
 To Install
 -----------------------------------------------
 
+
 FloPy requires **Python** 3.5 (or higher) and **NumPy** 1.9 (or higher).  Dependencies for optional FloPy methods are summarized [here](docs/flopy_method_dependencies.md).
 
 To install FloPy type:
     conda install -c conda-forge flopy
+    
 or
+
     pip install flopy
 
 
@@ -53,6 +56,7 @@ FloPy code documentation is available at [https://flopy.readthedocs.io](https://
 ##### ***Citation for FloPy:***
 
 [Bakker, Mark, Post, Vincent, Langevin, C. D., Hughes, J. D., White, J. T., Starn, J. J. and Fienen, M. N., 2016, Scripting MODFLOW Model Development Using Python and FloPy: Groundwater, v. 54, p. 733–739, doi:10.1111/gwat.12413.](http://dx.doi.org/10.1111/gwat.12413)
+
 
 ##### ***Software/Code citation for FloPy:***
 
