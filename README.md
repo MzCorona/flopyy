@@ -10,9 +10,9 @@ FloPy includes support for [MODFLOW 6](docs/mf6.md), MODFLOW-2005, MODFLOW-NWT, 
 TO FIND CLAUDIA CORONA'S INDIVIDUAL GROUP PROJECT
 -----------------------------------------------
 
-## Go to examples/Notebooks/CRCFloPy.ipynb
+Go to examples/Notebooks/CRCFloPy.ipynb
 
-## The notebook has been pre-run and should be complete.
+The notebook has been pre-run and should be complete.
 
 ----------------------------------------------
 
