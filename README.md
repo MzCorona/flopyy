@@ -1,21 +1,19 @@
 
 <img src="https://raw.githubusercontent.com/modflowpy/flopy/master/examples/images/flopy3.png" alt="flopy3" style="width:50;height:20">
 
-Introduction
+To Access CLAUDIA CORONA'S FloPy Individual Group Project
 -----------------------------------------------
 
-FloPy includes support for [MODFLOW 6](docs/mf6.md), MODFLOW-2005, MODFLOW-NWT, MODFLOW-USG, and MODFLOW-2000. Other supported MODFLOW-based models include MODPATH (version 6 and 7), MT3DMS, MT3D-USGS, and SEAWAT.
-
-
-TO FIND CLAUDIA CORONA'S INDIVIDUAL GROUP PROJECT
------------------------------------------------
-
-Go to examples/Notebooks/CRCFloPy.ipynb
+Go to -> examples/Notebooks/CRCFloPy.ipynb
 
 The notebook has been pre-run and should be complete.
 
 ----------------------------------------------
 
+Introduction
+-----------------------------------------------
+
+FloPy includes support for [MODFLOW 6](docs/mf6.md), MODFLOW-2005, MODFLOW-NWT, MODFLOW-USG, and MODFLOW-2000. Other supported MODFLOW-based models include MODPATH (version 6 and 7), MT3DMS, MT3D-USGS, and SEAWAT.
 
 NOTE: THIS REPOSITORY DOES NOT HAVE THE FLOPY FOLDER. That must be installed locally on your machine. Here's how:
 
