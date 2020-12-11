@@ -11,7 +11,7 @@ The notebook has been pre-run and should be complete.
 *NOTE: THIS REPOSITORY DOES NOT HAVE THE FLOPY FOLDER. That is best installed locally on your machine. Here's how:
 
 
-To Install
+To Install (from https://github.com/modflowpy/flopy)
 -----------------------------------------------
 
 FloPy requires **Python** 3.5 (or higher) and **NumPy** 1.9 (or higher).  Dependencies for optional FloPy methods are summarized [here](docs/flopy_method_dependencies.md).
