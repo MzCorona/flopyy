@@ -25,7 +25,7 @@ or
     pip install flopy
 
 
-Introduction
+Documentation
 -----------------------------------------------
 
 FloPy includes support for [MODFLOW 6](docs/mf6.md), MODFLOW-2005, MODFLOW-NWT, MODFLOW-USG, and MODFLOW-2000. Other supported MODFLOW-based models include MODPATH (version 6 and 7), MT3DMS, MT3D-USGS, and SEAWAT.
