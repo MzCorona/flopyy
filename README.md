@@ -27,6 +27,7 @@ To Install
 FloPy requires **Python** 3.5 (or higher) and **NumPy** 1.9 (or higher).  Dependencies for optional FloPy methods are summarized [here](docs/flopy_method_dependencies.md).
 
 To install FloPy type:
+
     conda install -c conda-forge flopy
     
 or
